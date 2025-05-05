@@ -14,6 +14,8 @@ namespace Team4ProjectGettingReal.Model
         private double price;
 
         public string Name { get { return name; } }
+        public string Description { get { return description; } }
+        public double Price { get { return price; } }
 
         public Item(string name, string description, double price)
         {
