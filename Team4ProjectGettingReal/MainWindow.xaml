@@ -11,18 +11,26 @@
             <RowDefinition Height="50"/>
             <RowDefinition/>
         </Grid.RowDefinitions>
-        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
-            <Button BorderBrush="Transparent" Content="Home" Width="75" Height="30"/>
-            <Button Content="About" Width="75" Height="30"/>
-            <Button Content="Resource" Width="75" Height="30"/>
-        </StackPanel>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center"/>
 
 
         <Grid Grid.Row="1">
-            <DataGrid ItemsSource="{Binding items}">
+            <DataGrid ItemsSource="{Binding items}" Margin="0,48,0,30">
 
             </DataGrid>
+            <TextBox HorizontalAlignment="Left" Margin="10,359,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
+            <TextBox HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
         </Grid>
+        <Menu>
+            <Button BorderBrush="Transparent" Content="Home" Width="75" Height="30" Click="Button_Click"/>
+            <Button Content="Items" Width="75" Height="30"/>
+            <Button Content="Batch" Width="75" Height="30"/>
+            <Button Content="Position" Width="75" Height="30"/>
+            <Button Content="About" Width="75" Height="30"/>
+            <Button Content="About" Width="75" Height="30"/>
+            <Button Content="About" Width="75" Height="30"/>
+            <Button Content="About" Width="75" Height="30"/>
+        </Menu>
 
     </Grid>
 </Window>
