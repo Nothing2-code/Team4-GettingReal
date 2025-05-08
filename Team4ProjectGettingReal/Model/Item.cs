@@ -63,8 +63,5 @@ namespace Team4ProjectGettingReal.Model
             else
                 throw new InvalidOperationException("Not enough in stock.");
         }
-
-
-
     }
 }
