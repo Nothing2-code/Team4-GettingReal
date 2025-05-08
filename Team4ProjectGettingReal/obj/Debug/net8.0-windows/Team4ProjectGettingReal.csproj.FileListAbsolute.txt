@@ -23,11 +23,9 @@ C:\Users\rasmu\source\repos\Team4-GettingReal\Team4ProjectGettingReal\bin\Debug\
 C:\Users\rasmu\source\repos\Team4-GettingReal\Team4ProjectGettingReal\bin\Debug\net8.0-windows\Team4ProjectGettingReal.runtimeconfig.json
 C:\Users\rasmu\source\repos\Team4-GettingReal\Team4ProjectGettingReal\bin\Debug\net8.0-windows\Team4ProjectGettingReal.dll
 C:\Users\rasmu\source\repos\Team4-GettingReal\Team4ProjectGettingReal\bin\Debug\net8.0-windows\Team4ProjectGettingReal.pdb
-C:\Users\rasmu\source\repos\Team4-GettingReal\Team4ProjectGettingReal\obj\Debug\net8.0-windows\MainWindow.g.cs
 C:\Users\rasmu\source\repos\Team4-GettingReal\Team4ProjectGettingReal\obj\Debug\net8.0-windows\App.g.cs
 C:\Users\rasmu\source\repos\Team4-GettingReal\Team4ProjectGettingReal\obj\Debug\net8.0-windows\Team4ProjectGettingReal_MarkupCompile.cache
 C:\Users\rasmu\source\repos\Team4-GettingReal\Team4ProjectGettingReal\obj\Debug\net8.0-windows\Team4ProjectGettingReal_MarkupCompile.lref
-C:\Users\rasmu\source\repos\Team4-GettingReal\Team4ProjectGettingReal\obj\Debug\net8.0-windows\MainWindow.baml
 C:\Users\rasmu\source\repos\Team4-GettingReal\Team4ProjectGettingReal\obj\Debug\net8.0-windows\Team4ProjectGettingReal.g.resources
 C:\Users\rasmu\source\repos\Team4-GettingReal\Team4ProjectGettingReal\obj\Debug\net8.0-windows\Team4ProjectGettingReal.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\rasmu\source\repos\Team4-GettingReal\Team4ProjectGettingReal\obj\Debug\net8.0-windows\Team4ProjectGettingReal.AssemblyInfoInputs.cache
@@ -39,5 +37,7 @@ C:\Users\rasmu\source\repos\Team4-GettingReal\Team4ProjectGettingReal\obj\Debug\
 C:\Users\rasmu\source\repos\Team4-GettingReal\Team4ProjectGettingReal\obj\Debug\net8.0-windows\Team4ProjectGettingReal.pdb
 C:\Users\rasmu\source\repos\Team4-GettingReal\Team4ProjectGettingReal\obj\Debug\net8.0-windows\Team4ProjectGettingReal.genruntimeconfig.cache
 C:\Users\rasmu\source\repos\Team4-GettingReal\Team4ProjectGettingReal\obj\Debug\net8.0-windows\ref\Team4ProjectGettingReal.dll
-C:\Users\rasmu\source\repos\Team4-GettingReal\Team4ProjectGettingReal\obj\Debug\net8.0-windows\SaleWindow.g.cs
-C:\Users\rasmu\source\repos\Team4-GettingReal\Team4ProjectGettingReal\obj\Debug\net8.0-windows\SaleWindow.baml
+C:\Users\rasmu\source\repos\Team4-GettingReal\Team4ProjectGettingReal\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\rasmu\source\repos\Team4-GettingReal\Team4ProjectGettingReal\obj\Debug\net8.0-windows\View\SaleWindow.g.cs
+C:\Users\rasmu\source\repos\Team4-GettingReal\Team4ProjectGettingReal\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\rasmu\source\repos\Team4-GettingReal\Team4ProjectGettingReal\obj\Debug\net8.0-windows\View\SaleWindow.baml

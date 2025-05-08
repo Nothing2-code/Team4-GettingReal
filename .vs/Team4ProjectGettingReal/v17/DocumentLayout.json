@@ -95,7 +95,7 @@
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
               "ToolTip": "C:\\Users\\rasmu\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Read Only]",
               "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Read Only]",
-              "ViewState": "AgIAAA8AAAAAAAAAAIAwwCcAAAAEAAAAAQAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAEAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T07:59:05.533Z",
               "EditorCaption": " [Read Only]"
@@ -121,8 +121,7 @@
               "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\SaleWindow.xaml",
               "RelativeToolTip": "Team4ProjectGettingReal\\SaleWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-07T07:46:13.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T07:46:13.841Z"
             },
             {
               "$type": "Document",
@@ -134,8 +133,7 @@
               "RelativeToolTip": "Team4ProjectGettingReal\\SaleWindow.xaml.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAD4vxMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T07:46:51.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T07:46:51.369Z"
             },
             {
               "$type": "Document",
@@ -147,8 +145,7 @@
               "RelativeToolTip": "Team4ProjectGettingReal\\Model\\ID.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T17:30:04.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T17:30:04.489Z"
             },
             {
               "$type": "Document",
@@ -160,8 +157,7 @@
               "RelativeToolTip": "Team4ProjectGettingReal\\Repository\\DataHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T10:03:27.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T10:03:27.317Z"
             },
             {
               "$type": "Document",
@@ -173,8 +169,7 @@
               "RelativeToolTip": "Team4ProjectGettingReal\\Repository\\FileItemRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T10:02:08.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T10:02:08.462Z"
             },
             {
               "$type": "Document",
@@ -246,8 +241,7 @@
               "RelativeToolTip": "Team4ProjectGettingReal\\Model\\Item.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T22:10:31.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T22:10:31.041Z"
             },
             {
               "$type": "Document",
@@ -259,8 +253,7 @@
               "RelativeToolTip": "Team4ProjectGettingReal\\MVVM\\ViewModelBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T22:06:51.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T22:06:51.326Z"
             },
             {
               "$type": "Document",
@@ -272,8 +265,7 @@
               "RelativeToolTip": "Team4ProjectGettingReal\\ViewModel\\MainWindowViewModel.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAxwBsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T22:06:23.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T22:06:23.118Z"
             },
             {
               "$type": "Document",
@@ -296,8 +288,7 @@
               "RelativeToolTip": "Team4ProjectGettingReal\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T21:36:43.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T21:36:43.919Z"
             }
           ]
         }

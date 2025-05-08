@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|solutionrelative:team4projectgettingreal\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rasmu\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\rasmu\\source\\repos\\team4-gettingreal\\team4projectgettingreal\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|solutionrelative:team4projectgettingreal\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -74,7 +77,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -83,6 +86,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\rasmu\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:59:05.533Z",
+              "EditorCaption": " [Read Only]"
             },
             {
               "$type": "Document",
@@ -98,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "SaleWindow.xaml",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\SaleWindow.xaml",
               "RelativeDocumentMoniker": "Team4ProjectGettingReal\\SaleWindow.xaml",
@@ -110,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "SaleWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\SaleWindow.xaml.cs",
               "RelativeDocumentMoniker": "Team4ProjectGettingReal\\SaleWindow.xaml.cs",
@@ -123,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ID.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Model\\ID.cs",
               "RelativeDocumentMoniker": "Team4ProjectGettingReal\\Model\\ID.cs",
@@ -136,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DataHandler.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Repository\\DataHandler.cs",
               "RelativeDocumentMoniker": "Team4ProjectGettingReal\\Repository\\DataHandler.cs",
@@ -149,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FileItemRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Repository\\FileItemRepository.cs",
               "RelativeDocumentMoniker": "Team4ProjectGettingReal\\Repository\\FileItemRepository.cs",
@@ -162,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Storage.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Model\\Storage.cs",
               "RelativeDocumentMoniker": "Team4ProjectGettingReal\\Model\\Storage.cs",
@@ -174,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Repository\\IRepository.cs",
               "RelativeDocumentMoniker": "Team4ProjectGettingReal\\Repository\\IRepository.cs",
@@ -186,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Batch.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Model\\Batch.cs",
               "RelativeDocumentMoniker": "Team4ProjectGettingReal\\Model\\Batch.cs",
@@ -198,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Supplier.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Model\\Supplier.cs",
               "RelativeDocumentMoniker": "Team4ProjectGettingReal\\Model\\Supplier.cs",
@@ -210,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "RelayCommand.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\MVVM\\RelayCommand.cs",
               "RelativeDocumentMoniker": "Team4ProjectGettingReal\\MVVM\\RelayCommand.cs",
@@ -222,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Model\\Item.cs",
               "RelativeDocumentMoniker": "Team4ProjectGettingReal\\Model\\Item.cs",
@@ -235,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ViewModelBase.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\MVVM\\ViewModelBase.cs",
               "RelativeDocumentMoniker": "Team4ProjectGettingReal\\MVVM\\ViewModelBase.cs",
@@ -248,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\ViewModel\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "Team4ProjectGettingReal\\ViewModel\\MainWindowViewModel.cs",
@@ -261,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Team4ProjectGettingReal\\MainWindow.xaml",
@@ -272,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Team4ProjectGettingReal\\MainWindow.xaml.cs",
