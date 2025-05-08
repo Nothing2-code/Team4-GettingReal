@@ -1,58 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\",
+  "WorkspaceRootPath": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\yuurei\\desktop\\one\\uddannelse\\datamatiker\\vs projekter\\git\\team4-gettingreal\\team4projectgettingreal\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|solutionrelative:team4projectgettingreal\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\rasmu\\source\\repos\\team4-gettingreal\\team4projectgettingreal\\salewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|solutionrelative:team4projectgettingreal\\salewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\yuurei\\desktop\\one\\uddannelse\\datamatiker\\vs projekter\\git\\team4-gettingreal\\team4projectgettingreal\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|solutionrelative:team4projectgettingreal\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\yuurei\\desktop\\one\\uddannelse\\datamatiker\\vs projekter\\git\\team4-gettingreal\\team4projectgettingreal\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\rasmu\\source\\repos\\team4-gettingreal\\team4projectgettingreal\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|solutionrelative:team4projectgettingreal\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\yuurei\\desktop\\one\\uddannelse\\datamatiker\\vs projekter\\git\\team4-gettingreal\\team4projectgettingreal\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\rasmu\\source\\repos\\team4-gettingreal\\team4projectgettingreal\\salewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|solutionrelative:team4projectgettingreal\\salewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\rasmu\\source\\repos\\team4-gettingreal\\team4projectgettingreal\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|solutionrelative:team4projectgettingreal\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\yuurei\\desktop\\one\\uddannelse\\datamatiker\\vs projekter\\git\\team4-gettingreal\\team4projectgettingreal\\repository\\fileitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|solutionrelative:team4projectgettingreal\\repository\\fileitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\rasmu\\source\\repos\\team4-gettingreal\\team4projectgettingreal\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|solutionrelative:team4projectgettingreal\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\yuurei\\desktop\\one\\uddannelse\\datamatiker\\vs projekter\\git\\team4-gettingreal\\team4projectgettingreal\\model\\id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|solutionrelative:team4projectgettingreal\\model\\id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\yuurei\\desktop\\one\\uddannelse\\datamatiker\\vs projekter\\git\\team4-gettingreal\\team4projectgettingreal\\mvvm\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\rasmu\\source\\repos\\team4-gettingreal\\team4projectgettingreal\\mvvm\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|solutionrelative:team4projectgettingreal\\mvvm\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\yuurei\\desktop\\one\\uddannelse\\datamatiker\\vs projekter\\git\\team4-gettingreal\\team4projectgettingreal\\model\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|solutionrelative:team4projectgettingreal\\model\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\yuurei\\desktop\\one\\uddannelse\\datamatiker\\vs projekter\\git\\team4-gettingreal\\team4projectgettingreal\\mvvm\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\rasmu\\source\\repos\\team4-gettingreal\\team4projectgettingreal\\mvvm\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|solutionrelative:team4projectgettingreal\\mvvm\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\yuurei\\desktop\\one\\uddannelse\\datamatiker\\vs projekter\\git\\team4-gettingreal\\team4projectgettingreal\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|solutionrelative:team4projectgettingreal\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\rasmu\\source\\repos\\team4-gettingreal\\team4projectgettingreal\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|solutionrelative:team4projectgettingreal\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\yuurei\\desktop\\one\\uddannelse\\datamatiker\\vs projekter\\git\\team4-gettingreal\\team4projectgettingreal\\model\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|solutionrelative:team4projectgettingreal\\model\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\yuurei\\desktop\\one\\uddannelse\\datamatiker\\vs projekter\\git\\team4-gettingreal\\team4projectgettingreal\\repository\\datahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\rasmu\\source\\repos\\team4-gettingreal\\team4projectgettingreal\\repository\\datahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|solutionrelative:team4projectgettingreal\\repository\\datahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\yuurei\\desktop\\one\\uddannelse\\datamatiker\\vs projekter\\git\\team4-gettingreal\\team4projectgettingreal\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\rasmu\\source\\repos\\team4-gettingreal\\team4projectgettingreal\\model\\id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|solutionrelative:team4projectgettingreal\\model\\id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\rasmu\\source\\repos\\team4-gettingreal\\team4projectgettingreal\\repository\\fileitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|solutionrelative:team4projectgettingreal\\repository\\fileitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\rasmu\\source\\repos\\team4-gettingreal\\team4projectgettingreal\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|solutionrelative:team4projectgettingreal\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\rasmu\\source\\repos\\team4-gettingreal\\team4projectgettingreal\\model\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|solutionrelative:team4projectgettingreal\\model\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\rasmu\\source\\repos\\team4-gettingreal\\team4projectgettingreal\\model\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|solutionrelative:team4projectgettingreal\\model\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|c:\\users\\rasmu\\source\\repos\\team4-gettingreal\\team4projectgettingreal\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544A1C80-879B-4FDA-B005-8458CBADC871}|Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj|solutionrelative:team4projectgettingreal\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,63 +70,100 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ID.cs",
-              "DocumentMoniker": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\Model\\ID.cs",
-              "RelativeDocumentMoniker": "Team4ProjectGettingReal\\Model\\ID.cs",
-              "ToolTip": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\Model\\ID.cs",
-              "RelativeToolTip": "Team4ProjectGettingReal\\Model\\ID.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T17:30:04.489Z"
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DataHandler.cs",
-              "DocumentMoniker": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\Repository\\DataHandler.cs",
-              "RelativeDocumentMoniker": "Team4ProjectGettingReal\\Repository\\DataHandler.cs",
-              "ToolTip": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\Repository\\DataHandler.cs",
-              "RelativeToolTip": "Team4ProjectGettingReal\\Repository\\DataHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T10:03:27.317Z"
+              "DocumentIndex": 2,
+              "Title": "SaleWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\SaleWindow.xaml",
+              "RelativeDocumentMoniker": "Team4ProjectGettingReal\\SaleWindow.xaml",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\SaleWindow.xaml",
+              "RelativeToolTip": "Team4ProjectGettingReal\\SaleWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T07:46:13.841Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FileItemRepository.cs",
-              "DocumentMoniker": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\Repository\\FileItemRepository.cs",
-              "RelativeDocumentMoniker": "Team4ProjectGettingReal\\Repository\\FileItemRepository.cs",
-              "ToolTip": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\Repository\\FileItemRepository.cs",
-              "RelativeToolTip": "Team4ProjectGettingReal\\Repository\\FileItemRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SaleWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\SaleWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Team4ProjectGettingReal\\SaleWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\SaleWindow.xaml.cs",
+              "RelativeToolTip": "Team4ProjectGettingReal\\SaleWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAD4vxsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T10:02:08.462Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Storage.cs",
-              "DocumentMoniker": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\Model\\Storage.cs",
-              "RelativeDocumentMoniker": "Team4ProjectGettingReal\\Model\\Storage.cs",
-              "ToolTip": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\Model\\Storage.cs",
-              "RelativeToolTip": "Team4ProjectGettingReal\\Model\\Storage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T08:52:57.07Z"
+              "WhenOpened": "2025-05-07T07:46:51.369Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "ID.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Model\\ID.cs",
+              "RelativeDocumentMoniker": "Team4ProjectGettingReal\\Model\\ID.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Model\\ID.cs",
+              "RelativeToolTip": "Team4ProjectGettingReal\\Model\\ID.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:30:04.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataHandler.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Repository\\DataHandler.cs",
+              "RelativeDocumentMoniker": "Team4ProjectGettingReal\\Repository\\DataHandler.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Repository\\DataHandler.cs",
+              "RelativeToolTip": "Team4ProjectGettingReal\\Repository\\DataHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T10:03:27.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Repository\\FileItemRepository.cs",
+              "RelativeDocumentMoniker": "Team4ProjectGettingReal\\Repository\\FileItemRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Repository\\FileItemRepository.cs",
+              "RelativeToolTip": "Team4ProjectGettingReal\\Repository\\FileItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T10:02:08.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Model\\Storage.cs",
+              "RelativeDocumentMoniker": "Team4ProjectGettingReal\\Model\\Storage.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Model\\Storage.cs",
+              "RelativeToolTip": "Team4ProjectGettingReal\\Model\\Storage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:52:57.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\Repository\\IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Repository\\IRepository.cs",
               "RelativeDocumentMoniker": "Team4ProjectGettingReal\\Repository\\IRepository.cs",
-              "ToolTip": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Repository\\IRepository.cs",
               "RelativeToolTip": "Team4ProjectGettingReal\\Repository\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -126,11 +171,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Batch.cs",
-              "DocumentMoniker": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\Model\\Batch.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Model\\Batch.cs",
               "RelativeDocumentMoniker": "Team4ProjectGettingReal\\Model\\Batch.cs",
-              "ToolTip": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\Model\\Batch.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Model\\Batch.cs",
               "RelativeToolTip": "Team4ProjectGettingReal\\Model\\Batch.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAewB4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -138,87 +183,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Supplier.cs",
-              "DocumentMoniker": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\Model\\Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Model\\Supplier.cs",
               "RelativeDocumentMoniker": "Team4ProjectGettingReal\\Model\\Supplier.cs",
-              "ToolTip": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\Model\\Supplier.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Model\\Supplier.cs",
               "RelativeToolTip": "Team4ProjectGettingReal\\Model\\Supplier.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T08:27:56.801Z"
+              "WhenOpened": "2025-05-04T08:27:56.801Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\MVVM\\RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\MVVM\\RelayCommand.cs",
               "RelativeDocumentMoniker": "Team4ProjectGettingReal\\MVVM\\RelayCommand.cs",
-              "ToolTip": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\MVVM\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\MVVM\\RelayCommand.cs",
               "RelativeToolTip": "Team4ProjectGettingReal\\MVVM\\RelayCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T08:15:48.142Z"
+              "WhenOpened": "2025-05-04T08:15:48.142Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\Model\\Item.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Model\\Item.cs",
               "RelativeDocumentMoniker": "Team4ProjectGettingReal\\Model\\Item.cs",
-              "ToolTip": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\Model\\Item.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Model\\Item.cs",
               "RelativeToolTip": "Team4ProjectGettingReal\\Model\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T22:10:31.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "ViewModelBase.cs",
-              "DocumentMoniker": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\MVVM\\ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\MVVM\\ViewModelBase.cs",
               "RelativeDocumentMoniker": "Team4ProjectGettingReal\\MVVM\\ViewModelBase.cs",
-              "ToolTip": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\MVVM\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\MVVM\\ViewModelBase.cs",
               "RelativeToolTip": "Team4ProjectGettingReal\\MVVM\\ViewModelBase.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T22:06:51.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindowViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\ViewModel\\MainWindowViewModel.cs",
-              "RelativeDocumentMoniker": "Team4ProjectGettingReal\\ViewModel\\MainWindowViewModel.cs",
-              "ToolTip": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\ViewModel\\MainWindowViewModel.cs",
-              "RelativeToolTip": "Team4ProjectGettingReal\\ViewModel\\MainWindowViewModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T22:06:23.118Z"
+              "WhenOpened": "2025-05-03T22:06:51.326Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "Team4ProjectGettingReal\\ViewModel\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeToolTip": "Team4ProjectGettingReal\\ViewModel\\MainWindowViewModel.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAWwDgAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T22:06:23.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Team4ProjectGettingReal\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\MainWindow.xaml",
               "RelativeToolTip": "Team4ProjectGettingReal\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-03T21:36:45.484Z"
+              "WhenOpened": "2025-05-03T21:36:45.484Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Team4ProjectGettingReal\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\MainWindow.xaml.cs",
               "RelativeToolTip": "Team4ProjectGettingReal\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T21:36:43.919Z"
+              "WhenOpened": "2025-05-03T21:36:43.919Z",
+              "EditorCaption": ""
             }
           ]
         }

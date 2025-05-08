@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj": {}
+    "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj": {
+    "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj",
+        "projectUniqueName": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj",
         "projectName": "Team4ProjectGettingReal",
-        "projectPath": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj",
-        "packagesPath": "C:\\Users\\yuurei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team4-GettingReal\\Team4ProjectGettingReal\\obj\\",
+        "projectPath": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\Team4ProjectGettingReal.csproj",
+        "packagesPath": "C:\\Users\\rasmu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rasmu\\source\\repos\\Team4-GettingReal\\Team4ProjectGettingReal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\yuurei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rasmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

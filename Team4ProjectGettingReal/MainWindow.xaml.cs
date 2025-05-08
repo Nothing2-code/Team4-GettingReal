@@ -22,6 +22,7 @@ namespace Team4ProjectGettingReal
             InitializeComponent();
             MainWindowViewModel vm = new MainWindowViewModel();
             DataContext = vm;
+            DataContext = new MainWindowViewModel();
         }
     }
 }
