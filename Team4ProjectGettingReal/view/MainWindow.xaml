@@ -5,33 +5,187 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Team4ProjectGettingReal"
         mc:Ignorable="d"
-        Title="BubaiSuperMarked POS" Height="450" Width="800">
+        Title="DubaiSuperMarked" Height="600" Width="800"
+        Background="White">
     <Grid>
+        <!-- Her laves to række, en med højden 60 og den anden med resterende højde -->
         <Grid.RowDefinitions>
-            <RowDefinition Height="50"/>
-            <RowDefinition/>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center"/>
+
+        <!-- Her vælges den første række, altså row "0" og der laves tre kolonner, med størrelserne 150, resterende bredde og 150. -->
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="150"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="150"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Her laves knap påkollonne nr 0 -->
+            <Button Grid.Column="0" 
+                    Content="Menu" 
+                    Width="100" 
+                    Height="35" 
+                    HorizontalAlignment="Left"
+                    Margin="15,0,0,0"
+                    Background="#E5E7EB"
+                    Foreground="#333333"
+                    BorderThickness="0">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="4"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+
+            <!-- jeg bruger StackPanel for at arrangere de tre knapper i en linje og vælge at den skal være horizontal-->
+            <StackPanel Grid.Column="1" 
+                        Orientation="Horizontal" 
+                        HorizontalAlignment="Center" 
+                        VerticalAlignment="Center">
+                <!-- Jeg laver tre knapper med transparent baggrund og med en borderthickness på 0 så kun tekst er synligt-->
+                <Button Content="Home" 
+                    Width="78" 
+                    Height="22" 
+                    Background="Transparent"
+                    BorderThickness="0">   
+                </Button>
+                <Button Content="About" 
+                    Width="78" 
+                    Height="22" 
+                    Background="Transparent"
+                    BorderThickness="0">
+                </Button>
+                <Button Content="Resources" 
+                    Width="78" 
+                    Height="22" 
+                    Background="Transparent"
+                    BorderThickness="0">
+                </Button>
+            </StackPanel>
+
+            <Button Grid.Column="2" 
+                    Content="Tilbage" 
+                    Width="100" 
+                    Height="35" 
+                    HorizontalAlignment="Right"
+                    Margin="0,0,15,0"
+                    Background="#333333"
+                    Foreground="White"
+                    BorderThickness="0">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="20"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+        </Grid>
 
 
         <Grid Grid.Row="1">
-            <DataGrid ItemsSource="{Binding items}" Margin="0,48,0,30">
+            <StackPanel VerticalAlignment="Top" Margin="0,40,0,0">
 
-            </DataGrid>
-            <!-- <TextBox HorizontalAlignment="Left" Margin="10,359,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
-            <TextBox HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/> -->
+                <TextBlock Text="Menu" 
+                           HorizontalAlignment="Center" 
+                           FontSize="24" 
+                           FontWeight="SemiBold" 
+                           Margin="0,0,0,40"/>
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <!-- Her laver jeg en stackpanel som er orinteret vertikalt-->
+                    <StackPanel Grid.Column="0" HorizontalAlignment="Center" Orientation="Vertical">
+
+                        <Border Width="70" Height="70" BorderThickness="0" Margin="0,0,0,15">
+                            <!-- fix til at billederne ikke blev vidst https://stackoverflow.com/questions/24049511/image-not-displaying-at-runtime-c-sharp-wpf-->
+                            <Image Source="/Images/inventory-icon.png" Stretch="Uniform"/>
+                        </Border>
+
+                        <TextBlock Text="LAGERSTATUS" 
+                                  HorizontalAlignment="Center" 
+                                  FontSize="10"
+                                  Foreground="#333333"
+                                  Margin="0,0,0,15"/>
+
+                        <Button Content="Se lagerstatus" 
+                                Width="140" 
+                                Height="40" 
+                                Background="Transparent"
+                                Foreground="#333333"
+                                BorderBrush="#333333"
+                                BorderThickness="1">
+                            <Button.Resources>
+                                <Style TargetType="Border">
+                                    <Setter Property="CornerRadius" Value="20"/>
+                                </Style>
+                            </Button.Resources>
+                        </Button>
+                    </StackPanel>
+
+
+                    <StackPanel Grid.Column="1" HorizontalAlignment="Center" Orientation="Vertical">
+
+                        <Border Width="70" Height="70" BorderThickness="0" Margin="0,0,0,15">
+                            <Image Source="/Images/supplier-icon.png" Stretch="Uniform"/>
+                        </Border>
+
+                        <TextBlock Text="LEVERING" 
+                                  HorizontalAlignment="Center" 
+                                  FontSize="10"
+                                  Foreground="#333333"
+                                  Margin="0,0,0,15"/>
+
+                        <Button Content="Leverandør" 
+                                Width="140" 
+                                Height="40" 
+                                Background="Transparent"
+                                Foreground="#333333"
+                                BorderBrush="#333333"
+                                BorderThickness="1">
+                            <Button.Resources>
+                                <Style TargetType="Border">
+                                    <Setter Property="CornerRadius" Value="20"/>
+                                </Style>
+                            </Button.Resources>
+                        </Button>
+                    </StackPanel>
+
+
+                    <StackPanel Grid.Column="2" HorizontalAlignment="Center" Orientation="Vertical">
+
+                        <Border Width="70" Height="70" BorderThickness="0" Margin="0,0,0,15">
+                            
+                            <Image Source="/Images/cart-icon.png" Stretch="Uniform"/>
+                        </Border>
+
+                        <TextBlock Text="VAREPLACERING" 
+                                  HorizontalAlignment="Center" 
+                                  FontSize="10"
+                                  Foreground="#333333"
+                                  Margin="0,0,0,15"/>
+
+                        <Button Content="Vareplacering" 
+                                Width="140" 
+                                Height="40" 
+                                Background="Transparent"
+                                Foreground="#333333"
+                                BorderBrush="#333333"
+                                BorderThickness="1">
+                            <Button.Resources>
+                                <Style TargetType="Border">
+                                    <Setter Property="CornerRadius" Value="20"/>
+                                </Style>
+                            </Button.Resources>
+                        </Button>
+                    </StackPanel>
+                </Grid>
+            </StackPanel>
         </Grid>
-        <Menu>
-            <!-- <Button BorderBrush="Transparent" Content="Home" Width="75" Height="30" Click="Button_Click"/> -->
-            <Button Content="Items" Width="75" Height="30"/>
-            <Button Content="Batch" Width="75" Height="30"/>
-            <Button Content="Position" Width="75" Height="30"/>
-            <Button Content="About" Width="75" Height="30"/>
-            <Button Content="About" Width="75" Height="30"/>
-            <Button Content="About" Width="75" Height="30"/>
-            <Button Content="About" Width="75" Height="30"/>
-            <Button Content="Register Sale" Width="75" Height="30" Command="{Binding GenerateSaleCommand}"/>
-        </Menu>
-
     </Grid>
 </Window>

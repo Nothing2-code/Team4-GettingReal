@@ -9,7 +9,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Images\cart-icon.png" />
+    <None Remove="Images\inventory-icon.png" />
+    <None Remove="Images\supplier-icon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="View\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\cart-icon.png" />
+    <Resource Include="Images\inventory-icon.png" />
+    <Resource Include="Images\supplier-icon.png" />
   </ItemGroup>
 
 </Project>
