@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Team4ProjectGettingReal.Model
 {
-    internal interface ID
+    public interface ID
     {
         string ToString();
     }
