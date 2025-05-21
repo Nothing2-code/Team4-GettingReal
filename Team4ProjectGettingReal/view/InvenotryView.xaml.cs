@@ -26,5 +26,10 @@ namespace Team4ProjectGettingReal.View
             InitializeComponent();
             DataContext = new InventoryViewModel();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

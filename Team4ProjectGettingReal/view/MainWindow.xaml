@@ -35,7 +35,8 @@
 
                 <!-- Her laves knap påkollonne nr 0 -->
                 <Button Grid.Column="0" 
-                        Content="Menu" 
+                        Content="Menu"
+                        Command="{Binding UpdateViewCommand}" CommandParameter="Home"
                         Width="100" 
                         Height="35" 
                         HorizontalAlignment="Left"
@@ -50,31 +51,8 @@
                     </Button.Resources>
                 </Button>
 
-                <!-- jeg bruger StackPanel for at arrangere de tre knapper i en linje og vælge at den skal være horizontal-->
-                <StackPanel Grid.Column="1" 
-                            Orientation="Horizontal" 
-                            HorizontalAlignment="Center" 
-                            VerticalAlignment="Center">
-                    <!-- Jeg laver tre knapper med transparent baggrund og med en borderthickness på 0 så kun tekst er synligt-->
-                    <Button Command="{Binding UpdateViewCommand}" CommandParameter="Home" Content="Home" 
-                            Width="78" 
-                            Height="22" 
-                            Background="Transparent"
-                            BorderThickness="0"/>
-                    <Button Content="About" 
-                            Width="78" 
-                            Height="22" 
-                            Background="Transparent"
-                            BorderThickness="0"/>
-                    <Button Content="Resources" 
-                            Width="78" 
-                            Height="22" 
-                            Background="Transparent"
-                            BorderThickness="0"/>
-                </StackPanel>
-
                 <Button Grid.Column="2" 
-                        Content="Tilbage" 
+                        Content="Exit" 
                         Width="100" 
                         Height="35" 
                         HorizontalAlignment="Right"

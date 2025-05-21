@@ -37,6 +37,20 @@
                     </Style>
                 </Button.Resources>
             </Button>
+
+            <Button Content="Slet Leverandør"
+        Width="120" 
+        Height="35" 
+        Margin="10,0,10,0"
+        Background="#333333"
+        Foreground="#E5E7EB"
+        BorderThickness="0">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="4"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
         </StackPanel>
     </Grid>
 </UserControl>
