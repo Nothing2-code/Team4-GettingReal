@@ -90,15 +90,110 @@
                 </Button>
             </Grid>
 
-            <!-- Anden række (row 1) i indre Grid - her kan du tilføje indhold -->
-            <Grid Grid.Row="1">
-                <!-- Tilføj eventuelt indhold her -->
-            </Grid>
-        </Grid>
 
-        <!-- Nederste række i hovedlayout (Grid.Row=1) -->
-        <Grid Grid.Row="1">
-            <!-- Tilføj bundsektion eller andet indhold her -->
+            <Grid Grid.Row="1">
+                <StackPanel VerticalAlignment="Top" Margin="0,40,0,0">
+
+                    <TextBlock Text="Menu" 
+                HorizontalAlignment="Center" 
+                FontSize="24" 
+                FontWeight="SemiBold" 
+                Margin="0,0,0,40"/>
+
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <!-- Her laver jeg en stackpanel som er orinteret vertikalt-->
+                        <StackPanel Grid.Column="0" HorizontalAlignment="Center" Orientation="Vertical">
+
+                            <Border Width="70" Height="70" BorderThickness="0" Margin="0,0,0,15">
+                                <!-- fix til at billederne ikke blev vidst https://stackoverflow.com/questions/24049511/image-not-displaying-at-runtime-c-sharp-wpf-->
+                                <Image Source="/Images/inventory-icon.png" Stretch="Uniform"/>
+                            </Border>
+
+                            <TextBlock Text="LAGERSTATUS" 
+                       HorizontalAlignment="Center" 
+                       FontSize="10"
+                       Foreground="#333333"
+                       Margin="0,0,0,15"/>
+
+                            <Button Content="Se lagerstatus" 
+                     Width="140" 
+                     Height="40" 
+                     Background="Transparent"
+                     Foreground="#333333"
+                     BorderBrush="#333333"
+                     BorderThickness="1">
+                                <Button.Resources>
+                                    <Style TargetType="Border">
+                                        <Setter Property="CornerRadius" Value="20"/>
+                                    </Style>
+                                </Button.Resources>
+                            </Button>
+                        </StackPanel>
+
+
+                        <StackPanel Grid.Column="1" HorizontalAlignment="Center" Orientation="Vertical">
+
+                            <Border Width="70" Height="70" BorderThickness="0" Margin="0,0,0,15">
+                                <Image Source="/Images/supplier-icon.png" Stretch="Uniform"/>
+                            </Border>
+
+                            <TextBlock Text="LEVERING" 
+                       HorizontalAlignment="Center" 
+                       FontSize="10"
+                       Foreground="#333333"
+                       Margin="0,0,0,15"/>
+
+                            <Button Content="Leverandør" 
+                     Width="140" 
+                     Height="40" 
+                     Background="Transparent"
+                     Foreground="#333333"
+                     BorderBrush="#333333"
+                     BorderThickness="1">
+                                <Button.Resources>
+                                    <Style TargetType="Border">
+                                        <Setter Property="CornerRadius" Value="20"/>
+                                    </Style>
+                                </Button.Resources>
+                            </Button>
+                        </StackPanel>
+
+
+                        <StackPanel Grid.Column="2" HorizontalAlignment="Center" Orientation="Vertical">
+
+                            <Border Width="70" Height="70" BorderThickness="0" Margin="0,0,0,15">
+
+                                <Image Source="/Images/cart-icon.png" Stretch="Uniform"/>
+                            </Border>
+
+                            <TextBlock Text="VAREPLACERING" 
+                       HorizontalAlignment="Center" 
+                       FontSize="10"
+                       Foreground="#333333"
+                       Margin="0,0,0,15"/>
+
+                            <Button Content="Vareplacering" 
+                     Width="140" 
+                     Height="40" 
+                     Background="Transparent"
+                     Foreground="#333333"
+                     BorderBrush="#333333"
+                     BorderThickness="1">
+                                <Button.Resources>
+                                    <Style TargetType="Border">
+                                        <Setter Property="CornerRadius" Value="20"/>
+                                    </Style>
+                                </Button.Resources>
+                            </Button>
+                        </StackPanel>
+        </Grid>
+                </StackPanel>
         </Grid>
     </Grid>
 </Window>
