@@ -10,14 +10,24 @@
 
   <ItemGroup>
     <None Remove="Images\cart-icon.png" />
+    <None Remove="Images\db-super.jpeg" />
     <None Remove="Images\inventory-icon.png" />
     <None Remove="Images\supplier-icon.png" />
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="Images\cart-icon.png" />
-    <Resource Include="Images\inventory-icon.png" />
-    <Resource Include="Images\supplier-icon.png" />
+    <Resource Include="Images\cart-icon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\db-super.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\inventory-icon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\supplier-icon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
   </ItemGroup>
 
 </Project>
