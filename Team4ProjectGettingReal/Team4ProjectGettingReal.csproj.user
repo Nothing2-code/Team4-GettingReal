@@ -21,5 +21,8 @@
     <Page Update="View\InvenotryView.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="view\SupplierView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
   </ItemGroup>
 </Project>

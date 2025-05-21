@@ -12,10 +12,10 @@
         <DataTemplate DataType="{x:Type viewmodels:InventoryViewModel}">
             <views:InventoryView/>
         </DataTemplate>
-        <!--<DataTemplate DataType="{x:Type viewmodels:SupplierViewModel}">
+        <DataTemplate DataType="{x:Type viewmodels:SupplierViewModel}">
             <views:SupplierView/>
-        </DataTemplate>
-        <DataTemplate DataType="{x:Type viewmodels:LocationViewModel}">
+            </DataTemplate>
+        <!--<DataTemplate DataType="{x:Type viewmodels:LocationViewModel}">
             <views:LocationView/>
         </DataTemplate> -->
     </Application.Resources>

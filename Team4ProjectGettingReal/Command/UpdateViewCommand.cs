@@ -37,6 +37,11 @@ namespace Team4ProjectGettingReal.Commands
                 Trace.WriteLine("Inventory");
                 viewModel.SelectedViewModel = new InventoryViewModel();
             }
+            else if (parameter.ToString() == "Supplier")
+            {
+                Trace.WriteLine("Supplier");
+                viewModel.SelectedViewModel = new SupplierViewModel();
+            }
         }
     }
 }
