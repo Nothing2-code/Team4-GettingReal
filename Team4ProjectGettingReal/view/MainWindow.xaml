@@ -192,8 +192,8 @@
                                 </Button.Resources>
                             </Button>
                         </StackPanel>
-        </Grid>
+                    </Grid>
                 </StackPanel>
+            </Grid>
         </Grid>
-    </Grid>
 </Window>
