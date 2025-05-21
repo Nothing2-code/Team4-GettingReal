@@ -29,13 +29,21 @@ namespace Team4ProjectGettingReal
         public double ItemAmount { get; private set; }
         public string SelectedItemName { get; private set; }
 
+        internal SaleWindow(IEnumerable<Item> items)
+        {
+            InitializeComponent();
+            ItemComboBox.ItemsSource = items;
+        }
 
         private void Submit_Click(object sender, RoutedEventArgs e)
         {
-                if (NameBox.Text != null)
+
+                if (ItemComboBox.SelectedItem is not Item selected)
                 {
-                    ItemName = NameBox.Text;
+                    MessageBox.Show("Please select an item.");
+                    return;
                 }
+
                 if (DescriptionBox.Text != null)
                 {
                     ItemDescription = DescriptionBox.Text;
@@ -53,9 +61,9 @@ namespace Team4ProjectGettingReal
 
                 DialogResult = true;
                 Close();
-            }
-        }
 
+        }
+    }
 
 
 }

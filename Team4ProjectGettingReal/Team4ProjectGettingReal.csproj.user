@@ -7,18 +7,36 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="View\AddItemWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\EditItemWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="View\HomeView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="View\InvenotryView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="View\RemoveItemWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="View\AddItemWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\EditItemWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="View\HomeView.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="View\InvenotryView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\RemoveItemWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="view\SupplierView.xaml">

@@ -17,8 +17,30 @@ namespace Team4ProjectGettingReal.Model
         private double amount;
 
         public string Name { get { return name; } }
-        public string Description { get { return description; } }
-        public double Price { get { return price; } }
+        public string Description
+        {
+            get => description;
+            private set
+            {
+                if (description != value)
+                {
+                    description = value;
+                    OnPropertyChanged();
+                }
+            }
+        }
+        public double Price
+        {
+            get => price;
+            private set
+            {
+                if (price != value)
+                {
+                    price = value;
+                    OnPropertyChanged();
+                }
+            }
+        }
         public double Amount
         {
             get => amount;
@@ -62,6 +84,17 @@ namespace Team4ProjectGettingReal.Model
                 Amount -= sold;
             else
                 throw new InvalidOperationException("Not enough in stock.");
+        }
+        public void UpdateItem(string newDescription, double newPrice, double newAmount)
+        {
+            if (Description != newDescription)
+                Description = newDescription;
+
+            if (Price != newPrice)
+                Price = newPrice;
+
+            if (Amount != newAmount)
+                Amount = newAmount;
         }
     }
 }
