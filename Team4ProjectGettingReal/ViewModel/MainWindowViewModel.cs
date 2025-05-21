@@ -15,7 +15,8 @@ namespace Team4ProjectGettingReal.ViewModel
 {
     public class MainWindowViewModel : ViewModelBase
     {
-
+        public ICommand UpdateViewCommand { get; set; }
+        public ICommand ExitCommand { get; }
         private ViewModelBase _selectedViewModel;
         public ViewModelBase SelectedViewModel
         {
@@ -27,14 +28,19 @@ namespace Team4ProjectGettingReal.ViewModel
             }
         }
 
-
         public MainWindowViewModel()
         {
             UpdateViewCommand = new UpdateViewCommand(this);
             SelectedViewModel = new HomeViewModel();
+            ExitCommand = new RelayCommand(
+            param => Exit(), param => true);
         }
 
-        public ICommand UpdateViewCommand { get; set; }
+        private void Exit()
+        {
+            System.Environment.Exit(0);
+        }
 
     }
+
 }

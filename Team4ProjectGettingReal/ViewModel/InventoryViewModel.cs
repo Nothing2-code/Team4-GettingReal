@@ -28,7 +28,7 @@ namespace Team4ProjectGettingReal.ViewModel
             items.Add(new Item("Dadler", "fra Algeriet", 50, 10));
             items.Add(new Item("Hummus", "200g", 22, 7));
             items.Add(new Item("Gazoz", "fra Tyrkiet", 12, 20));
-            items.Add(new Item("Snickers", "50", 28, 15));
+            items.Add(new Item("Snickers", "50g", 28, 15));
 
             GenerateSaleCommand = new RelayCommand(
             param => GenerateSale(), param => true);
