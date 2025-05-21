@@ -54,7 +54,7 @@ namespace Team4ProjectGettingReal.ViewModel
 
         private void GenerateSale()
         {
-            var saleWindow = new SaleWindow(items);
+            var saleWindow = new SaleWindow();
             if (saleWindow.ShowDialog() == true)
             {
                 string selectedName = saleWindow.SelectedItemName;

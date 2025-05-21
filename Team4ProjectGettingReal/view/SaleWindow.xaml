@@ -5,15 +5,16 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Team4ProjectGettingReal"
         mc:Ignorable="d"
-        Title="Tilføj vare" Height="200" Width="300">
-        <StackPanel Margin="10">
-            <TextBlock Text="Item:" />
-            <ComboBox x:Name="ItemComboBox"
-              DisplayMemberPath="Name"
-              SelectedItem="{Binding SelectedItem}"
-              Margin="0,0,0,10" />
-            <TextBlock Text="Antal:" Margin="0,10,0,0" />
-            <TextBox Name="AmountBox" />
-            <Button Content="Submit" Click="Submit_Click" Margin="0,10,0,0" />
-        </StackPanel>
+        Title="Tilføj vare" Height="254" Width="300">
+    <StackPanel Margin="10">
+        <TextBlock Text="Item:" />
+        <TextBox Name="NameBox" />
+        <TextBlock Text="Beskrivelse:" Margin="0,10,0,0" />
+        <TextBox Name="DescriptionBox" />
+        <TextBlock Text="Pris:" />
+        <TextBox x:Name="PriceBox" />
+        <TextBlock Text="Antal:" />
+        <TextBox x:Name="AmountBox" />
+        <Button Content="Submit" Click="Submit_Click" />
+    </StackPanel>
 </Window>
