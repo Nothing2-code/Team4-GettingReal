@@ -15,10 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="View\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Resource Include="Images\cart-icon.png" />
     <Resource Include="Images\inventory-icon.png" />
     <Resource Include="Images\supplier-icon.png" />

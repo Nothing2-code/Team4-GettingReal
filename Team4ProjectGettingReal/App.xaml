@@ -2,8 +2,21 @@
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:Team4ProjectGettingReal"
+             xmlns:views="clr-namespace:Team4ProjectGettingReal.View"
+             xmlns:viewmodels="clr-namespace:Team4ProjectGettingReal.ViewModel"
              StartupUri="View/MainWindow.xaml">
     <Application.Resources>
-         
+        <DataTemplate DataType="{x:Type viewmodels:HomeViewModel}">
+            <views:HomeView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodels:InventoryViewModel}">
+            <views:InventoryView/>
+        </DataTemplate>
+        <!--<DataTemplate DataType="{x:Type viewmodels:SupplierViewModel}">
+            <views:SupplierView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodels:LocationViewModel}">
+            <views:LocationView/>
+        </DataTemplate> -->
     </Application.Resources>
 </Application>

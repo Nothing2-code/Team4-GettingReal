@@ -8,7 +8,8 @@ using System.Threading.Tasks;
 
 namespace Team4ProjectGettingReal.MVVM
 {
-    internal class ViewModelBase : INotifyPropertyChanged
+    
+    public class ViewModelBase : INotifyPropertyChanged
     {
         public event PropertyChangedEventHandler? PropertyChanged;
         protected void OnPropertyChanged([CallerMemberName] string propertyName =null)

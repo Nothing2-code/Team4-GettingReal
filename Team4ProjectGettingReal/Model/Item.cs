@@ -9,7 +9,7 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Team4ProjectGettingReal.Model
 {
-    internal class Item : ID, INotifyPropertyChanged
+    public class Item : ID, INotifyPropertyChanged
     {
         private string name;
         private string description;
