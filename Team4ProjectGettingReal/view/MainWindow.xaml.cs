@@ -24,5 +24,10 @@ namespace Team4ProjectGettingReal
             DataContext = vm;
             DataContext = new MainWindowViewModel();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
